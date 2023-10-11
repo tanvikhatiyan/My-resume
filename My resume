@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>My Resume</title>
+    </head>
+    <body>
+        <h1>Tanvi Khatiyan</h1>
+        <h2>summary:</h2>
+        Iam a harworking and creative person. I like to work with team and also on different type of works. Currently, iam persuing b.tech from MEERUT INSTITUTE OF ENGINEERING AND TECHNOLOGY.
+        <hr/>
+        <h2>Education:</h2>
+        <ul>
+            <li>Bachelors of engineering
+                (2021-2025)
+            </li>
+        </ul>
+        <hr/>
+        <h2>Skills:</h2>
+        <ul>
+            <li>C programming</li>
+            <li>Python programming</li>
+            <li>Html</li>
+            <li>CSS</li>
+        </ul>
+        <hr/>
+        <h2>Certification:</h2>
+        <ul>
+            <li>Cisco (Packet Tracer)</li>
+            <li>Cisco (Networking Essential)</li>
+            <li>YBI (PYTHON programming)</li>
+        </ul>
+        <hr/>
+        <h2>Other:</h2>
+        <ul>
+            <li>My Hobbies
+                <ul>
+                    <li>Dancing</li>
+                    <li>Watching movies</li>
+                    <li>Reading</li> 
+                </ul>
+            </li>
+            <li>Contact me:
+              <ul>
+                <li>+12345678</li>
+              </ul>  
+            </li>
+        </ul>
